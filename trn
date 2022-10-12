@@ -1,0 +1,196 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@
+Signed in as 
+Your profile
+Your repositories
+Your codespaces
+Your projects
+Your stars
+Your gists
+Upgrade
+Help
+Settings
+Explore
+Topics
+Trending
+Collections
+Events
+GitHub Sponsors
+Trending
+
+See what the GitHub community is most excited about today.
+Repositories
+Developers
+
+Filter by spoken language
+
+Select your preferred spoken language in order to see matching trending results.
+helix-editor / helix
+
+A post-modern modal text editor.
+Rust
+14,546 910 Built by @archseer @the-mikedavis @dependabot @sh7dm @sudormrfbin
+208 stars today
+AykutSarac / jsoncrack.com
+
+crystal_ball Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+TypeScript
+17,882 840 Built by @AykutSarac @traviscibot @victorbrambati @cihat @yuvalg99
+360 stars today
+MobSF / Mobile-Security-Framework-MobSF
+
+Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+JavaScript
+12,341 2,694 Built by @ajinabraham @superpoussin22 @pyup-bot @magaofei @sn0b4ll
+62 stars today
+wagtail / wagtail
+
+A Django content management system focused on flexibility and user experience
+Python
+13,151 2,811 Built by @gasman @kaedroho @thibaudcolas @jacobtoppm @lb-
+81 stars today
+hashicorp / nomad
+
+Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+Go
+12,487 1,669 Built by @dadgar @schmichael @DingoEatingFuzz @notnoop @diptanu
+38 stars today
+lightningnetwork / lnd
+
+Lightning Network Daemon zap
+Go
+6,382 1,790 Built by @Roasbeef @cfromknecht @halseth @guggero @joostjager
+24 stars today
+tremorlabs / tremor
+
+The react library to build dashboards fast.
+TypeScript
+2,791 37 Built by @mitrotasios @severinlandolt @christopherkindl
+887 stars today
+AUTOMATIC1111 / stable-diffusion-webui
+
+Stable Diffusion web UI
+Python
+10,755 1,547 Built by @AUTOMATIC1111 @dfaker @C43H66N12O12S2 @d8ahazard @orionaskatu
+992 stars today
+FairCrypto / XEN-crypto
+
+XEN Crypto
+Solidity
+116 29 Built by @lbelyaev @nibty
+25 stars today
+ashishpatel26 / 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+
+500 AI Machine learning Deep learning Computer vision NLP Projects with code
+10,221 3,147 Built by @ashishpatel26
+101 stars today
+bradtraversy / design-resources-for-developers
+
+Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+44,650 9,588 Built by @Alaev @StefanSelfTaught @bradtraversy @richardoey @richierich25
+129 stars today
+koishijs / novelai-bot
+
+Generate images by NovelAI | 基于 NovelAI 的画图机器人
+TypeScript
+372 19 Built by @shigma @Ninzore @ssysm @Seidko
+99 stars today
+trekhleb / javascript-algorithms
+
+memo Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+JavaScript
+152,780 25,485 Built by @trekhleb @alexstulov @m-maksyutin @appleJax @albertstill
+146 stars today
+apache / dolphinscheduler
+
+Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.
+Java
+8,966 3,375 Built by @break60 @davidzollo @qiaozhanwei @lenboo @lgcareer
+71 stars today
+apache / skywalking
+
+APM, Application Performance Monitoring System
+Java
+20,556 5,917 Built by @wu-sheng @peng-yongsheng @kezhenxu94 @ascrutae @acurtain
+127 stars today
+lewagon / setup
+
+Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+Ruby
+14,459 1,375 Built by @ssaunier @dmilon @barangerbenjamin @armandoteran @gmanchon
+75 stars today
+halo-dev / halo
+
+writing_hand 一款现代化的开源博客 / CMS 系统。
+Java
+23,970 7,949 Built by @ruibaby @JohnNiang @guqing @dependabot-preview @wtune
+111 stars today
+vbenjs / vue-vben-admin
+
+A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
+Vue
+14,347 3,970 Built by @anncwb @mynetfan @zuihou @vben-admin @jinmao88
+73 stars today
+massalabs / massa
+
+The Decentralized and Scaled Blockchain
+Rust
+560 138 Built by @damip @AurelienFT @Eitu33 @AureliaDolo @bors
+82 stars today
+massgravel / Microsoft-Activation-Scripts
+
+A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+Batchfile
+18,163 2,153 Built by @WindowsAddict @mspaintmsi
+428 stars today
+iluwatar / java-design-patterns
+
+Design patterns implemented in Java
+Java
+77,380 23,989 Built by @iluwatar @allcontributors @npathai @ohbus @mikulucky
+43 stars today
+jupyterhub / jupyterhub
+
+Multi-user server for Jupyter notebooks
+Python
+6,878 1,811 Built by @minrk @willingc @consideRatio @yuvipanda @0mar
+28 stars today
+goldbergyoni / nodebestpractices
+
+white_check_mark The Node.js best practices list (August 2022)
+JavaScript
+82,130 8,509 Built by @goldbergyoni @allcontributors @anediaz @idori @js-kyle
+71 stars today
+go-admin-team / go-admin
+
+基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev Demo： https://www.go-admin.dev Antd 订阅版：https://preview.go-admin.dev
+Go
+7,375 1,632 Built by @wenjianzhang @zyd @ninstein @kikiyou @yangcuiwang
+33 stars today
+AmazingAng / WTF-Solidity
+
+我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
+Solidity
+3,150 439 Built by @AmazingAng @JustinAsdz @EasyChris @quantum-proof @ShuxunoO
+72 stars today
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
